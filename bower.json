@@ -1,0 +1,20 @@
+{
+  "name": "selva",
+  "description": "CMS completo desenvolvido em cima do padrão MVC",
+  "main": "index.js",
+  "authors": [
+    "Fagner Pelicioni"
+  ],
+  "license": "ISC",
+  "homepage": "pelicioni.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

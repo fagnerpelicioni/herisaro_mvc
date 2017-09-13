@@ -1,0 +1,22 @@
+{
+  "name": "selva",
+  "version": "1.0.0",
+  "description": "CMS completo desenvolvido em cima do padrão MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnerpelicioni/herisaro_mvc.git"
+  },
+  "author": "Fagner Pelicioni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnerpelicioni/herisaro_mvc/issues"
+  },
+  "homepage": "https://github.com/fagnerpelicioni/herisaro_mvc#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

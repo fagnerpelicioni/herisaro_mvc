@@ -1,0 +1,16 @@
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 6
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 7
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 8
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  Division by zero in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 9
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 6
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 7
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 8
+[23-Dec-2016 20:02:09 Brazil/East] PHP Warning:  Division by zero in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 9
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 6
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 7
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 8
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  Division by zero in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 9
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 6
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 7
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 8
+[23-Dec-2016 20:04:21 Brazil/East] PHP Warning:  Division by zero in /home/comprepronto/public_html/scripts/blog1/sistema/_models/model_arquivos_imagens.php on line 9

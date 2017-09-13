@@ -1,0 +1,15 @@
+{
+    "name": "HERISARO Floresta Cultural",
+    "description": "CMS completo desenvolvido em cima da arquitetura MVC",
+    "authors": [
+        {
+            "name": "Fagner Pelicioni",
+            "email": "fagner@pelicioni.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "kevinlebrun/slug.php": "1.*"
+
+    }
+}
